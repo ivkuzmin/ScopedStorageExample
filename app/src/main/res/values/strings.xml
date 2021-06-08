@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Scoped Storage Example</string>
+
+  <string name="requested_image">Request Image</string>
+  <string name="save_to_storage">Saving to storage %1$d</string>
+  <string name="completed">Completed!</string>
+  <string name="permission_denied">Write storage permission denied</string>
+</resources>
